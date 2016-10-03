@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "postinstall": "cp -a ./bower_components/foundation-sites/scss/. ./dev/scss/foundation/"
+  }
+}
